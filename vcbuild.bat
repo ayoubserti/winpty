@@ -77,7 +77,4 @@ if errorlevel 1 (
 REM -------------------------------------------------------------------------
 REM -- Compile the project.
 
-msbuild winpty.sln /m /p:Platform=%MSVC_PLATFORM% || (
-    echo error: msbuild failed
-    exit /b 1
-)
+
