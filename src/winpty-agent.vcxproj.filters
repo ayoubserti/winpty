@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="agent">
+      <UniqueIdentifier>{8474C169-9C01-C09B-BA71-B21D816D6E84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="agent\Agent.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\Agent.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\AgentCreateDesktop.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\AgentCreateDesktop.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClCompile Include="agent\ConsoleFont.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\ConsoleFont.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\ConsoleInput.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\ConsoleInput.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\ConsoleInputReencoding.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\ConsoleInputReencoding.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\ConsoleLine.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\ConsoleLine.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClInclude Include="agent\Coord.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClInclude Include="agent\DebugShowInput.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\DebugShowInput.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\DefaultInputMap.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\DefaultInputMap.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\DsrSender.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClInclude Include="agent\EventLoop.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\EventLoop.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\InputMap.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\InputMap.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\LargeConsoleRead.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\LargeConsoleRead.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\NamedPipe.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\NamedPipe.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\Scraper.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\Scraper.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\SimplePool.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClInclude Include="agent\SmallRect.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClInclude Include="agent\Terminal.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\Terminal.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\UnicodeEncoding.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\Win32Console.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\Win32Console.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\Win32ConsoleBuffer.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="agent\Win32ConsoleBuffer.h">
+      <Filter>agent</Filter>
+    </ClInclude>
+    <ClCompile Include="agent\main.cc">
+      <Filter>agent</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\AgentMsg.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="shared\BackgroundDesktop.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\BackgroundDesktop.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\Buffer.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\Buffer.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\DebugClient.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\DebugClient.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\GenRandom.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\GenRandom.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\OsModule.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="shared\OwnedHandle.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\OwnedHandle.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\StringBuilder.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\StringUtil.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\StringUtil.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="shared\UnixCtrlChars.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WindowsSecurity.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WindowsSecurity.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="shared\WindowsVersion.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WindowsVersion.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WinptyAssert.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WinptyAssert.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WinptyException.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WinptyException.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WinptyVersion.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WinptyVersion.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\winpty_snprintf.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <None Include="winpty.gyp"/>
+  </ItemGroup>
+</Project>

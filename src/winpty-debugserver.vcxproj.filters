@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="debugserver">
+      <UniqueIdentifier>{817F7B63-9678-EBFA-2357-CDD271C9F580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shared">
+      <UniqueIdentifier>{20D50607-EB73-BC01-11AE-A2B6030BB0A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="debugserver\DebugServer.cc">
+      <Filter>debugserver</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\DebugClient.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\DebugClient.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\OwnedHandle.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\OwnedHandle.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\OsModule.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="shared\StringBuilder.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\StringUtil.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\StringUtil.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClInclude Include="shared\WindowsSecurity.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WindowsSecurity.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WindowsVersion.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WindowsVersion.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WinptyAssert.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WinptyAssert.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\WinptyException.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <ClCompile Include="shared\WinptyException.cc">
+      <Filter>shared</Filter>
+    </ClCompile>
+    <ClInclude Include="shared\winpty_snprintf.h">
+      <Filter>shared</Filter>
+    </ClInclude>
+    <None Include="winpty.gyp"/>
+  </ItemGroup>
+</Project>

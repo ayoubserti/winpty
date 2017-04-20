@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 13.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winpty", "winpty.vcxproj", "{5AC51C43-D2D0-9269-B924-867365C19DC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winpty-agent", "winpty-agent.vcxproj", "{E3E1F340-3F55-C0C4-6A9D-1C06DED3148E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winpty-debugserver", "winpty-debugserver.vcxproj", "{32B077C7-B9E0-46C3-D270-61940F423F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B077C7-B9E0-46C3-D270-61940F423F8D}.Release|x64.ActiveCfg = Release|x64
+		{32B077C7-B9E0-46C3-D270-61940F423F8D}.Release|x64.Build.0 = Release|x64
+		{32B077C7-B9E0-46C3-D270-61940F423F8D}.Release|Win32.ActiveCfg = Release|Win32
+		{32B077C7-B9E0-46C3-D270-61940F423F8D}.Release|Win32.Build.0 = Release|Win32
+		{5AC51C43-D2D0-9269-B924-867365C19DC8}.Release|x64.ActiveCfg = Release|x64
+		{5AC51C43-D2D0-9269-B924-867365C19DC8}.Release|x64.Build.0 = Release|x64
+		{5AC51C43-D2D0-9269-B924-867365C19DC8}.Release|Win32.ActiveCfg = Release|Win32
+		{5AC51C43-D2D0-9269-B924-867365C19DC8}.Release|Win32.Build.0 = Release|Win32
+		{E3E1F340-3F55-C0C4-6A9D-1C06DED3148E}.Release|x64.ActiveCfg = Release|x64
+		{E3E1F340-3F55-C0C4-6A9D-1C06DED3148E}.Release|x64.Build.0 = Release|x64
+		{E3E1F340-3F55-C0C4-6A9D-1C06DED3148E}.Release|Win32.ActiveCfg = Release|Win32
+		{E3E1F340-3F55-C0C4-6A9D-1C06DED3148E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
