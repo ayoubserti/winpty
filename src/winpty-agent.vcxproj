@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Release|Win32">
@@ -17,24 +17,24 @@
     <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>
     <PreferredToolArchitecture>x64</PreferredToolArchitecture>
   </PropertyGroup>
-  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props"/>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
   </PropertyGroup>
   <PropertyGroup Label="Locals">
     <PlatformToolset>v120</PlatformToolset>
   </PropertyGroup>
-  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props"/>
-  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.props"/>
-  <ImportGroup Label="ExtensionSettings"/>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.props" />
+  <ImportGroup Label="ExtensionSettings" />
   <ImportGroup Label="PropertySheets">
-    <Import Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props"/>
+    <Import Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" />
   </ImportGroup>
-  <PropertyGroup Label="UserMacros"/>
+  <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <ExecutablePath>$(ExecutablePath);$(MSBuildProjectDirectory)\.\bin\;$(MSBuildProjectDirectory)\.\bin\</ExecutablePath>
     <IntDir>$(Configuration)\$(Platform)\obj\$(ProjectName)\</IntDir>
-    <OutDir>$(SolutionDir)$(Configuration)\$(Platform)\</OutDir>
+    <OutDir>$(Configuration)\$(Platform)\</OutDir>
     <TargetName>$(ProjectName)</TargetName>
     <TargetPath>$(OutDir)\$(ProjectName)$(TargetExt)</TargetPath>
   </PropertyGroup>
@@ -75,78 +75,78 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="winpty.gyp"/>
+    <None Include="winpty.gyp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="agent\Agent.h"/>
-    <ClInclude Include="agent\AgentCreateDesktop.h"/>
-    <ClInclude Include="agent\ConsoleFont.h"/>
-    <ClInclude Include="agent\ConsoleInput.h"/>
-    <ClInclude Include="agent\ConsoleInputReencoding.h"/>
-    <ClInclude Include="agent\ConsoleLine.h"/>
-    <ClInclude Include="agent\Coord.h"/>
-    <ClInclude Include="agent\DebugShowInput.h"/>
-    <ClInclude Include="agent\DefaultInputMap.h"/>
-    <ClInclude Include="agent\DsrSender.h"/>
-    <ClInclude Include="agent\EventLoop.h"/>
-    <ClInclude Include="agent\InputMap.h"/>
-    <ClInclude Include="agent\LargeConsoleRead.h"/>
-    <ClInclude Include="agent\NamedPipe.h"/>
-    <ClInclude Include="agent\Scraper.h"/>
-    <ClInclude Include="agent\SimplePool.h"/>
-    <ClInclude Include="agent\SmallRect.h"/>
-    <ClInclude Include="agent\Terminal.h"/>
-    <ClInclude Include="agent\UnicodeEncoding.h"/>
-    <ClInclude Include="agent\Win32Console.h"/>
-    <ClInclude Include="agent\Win32ConsoleBuffer.h"/>
-    <ClInclude Include="shared\AgentMsg.h"/>
-    <ClInclude Include="shared\BackgroundDesktop.h"/>
-    <ClInclude Include="shared\Buffer.h"/>
-    <ClInclude Include="shared\DebugClient.h"/>
-    <ClInclude Include="shared\GenRandom.h"/>
-    <ClInclude Include="shared\OsModule.h"/>
-    <ClInclude Include="shared\OwnedHandle.h"/>
-    <ClInclude Include="shared\StringBuilder.h"/>
-    <ClInclude Include="shared\StringUtil.h"/>
-    <ClInclude Include="shared\UnixCtrlChars.h"/>
-    <ClInclude Include="shared\WindowsSecurity.h"/>
-    <ClInclude Include="shared\WindowsVersion.h"/>
-    <ClInclude Include="shared\WinptyAssert.h"/>
-    <ClInclude Include="shared\WinptyException.h"/>
-    <ClInclude Include="shared\WinptyVersion.h"/>
-    <ClInclude Include="shared\winpty_snprintf.h"/>
+    <ClInclude Include="agent\Agent.h" />
+    <ClInclude Include="agent\AgentCreateDesktop.h" />
+    <ClInclude Include="agent\ConsoleFont.h" />
+    <ClInclude Include="agent\ConsoleInput.h" />
+    <ClInclude Include="agent\ConsoleInputReencoding.h" />
+    <ClInclude Include="agent\ConsoleLine.h" />
+    <ClInclude Include="agent\Coord.h" />
+    <ClInclude Include="agent\DebugShowInput.h" />
+    <ClInclude Include="agent\DefaultInputMap.h" />
+    <ClInclude Include="agent\DsrSender.h" />
+    <ClInclude Include="agent\EventLoop.h" />
+    <ClInclude Include="agent\InputMap.h" />
+    <ClInclude Include="agent\LargeConsoleRead.h" />
+    <ClInclude Include="agent\NamedPipe.h" />
+    <ClInclude Include="agent\Scraper.h" />
+    <ClInclude Include="agent\SimplePool.h" />
+    <ClInclude Include="agent\SmallRect.h" />
+    <ClInclude Include="agent\Terminal.h" />
+    <ClInclude Include="agent\UnicodeEncoding.h" />
+    <ClInclude Include="agent\Win32Console.h" />
+    <ClInclude Include="agent\Win32ConsoleBuffer.h" />
+    <ClInclude Include="shared\AgentMsg.h" />
+    <ClInclude Include="shared\BackgroundDesktop.h" />
+    <ClInclude Include="shared\Buffer.h" />
+    <ClInclude Include="shared\DebugClient.h" />
+    <ClInclude Include="shared\GenRandom.h" />
+    <ClInclude Include="shared\OsModule.h" />
+    <ClInclude Include="shared\OwnedHandle.h" />
+    <ClInclude Include="shared\StringBuilder.h" />
+    <ClInclude Include="shared\StringUtil.h" />
+    <ClInclude Include="shared\UnixCtrlChars.h" />
+    <ClInclude Include="shared\WindowsSecurity.h" />
+    <ClInclude Include="shared\WindowsVersion.h" />
+    <ClInclude Include="shared\WinptyAssert.h" />
+    <ClInclude Include="shared\WinptyException.h" />
+    <ClInclude Include="shared\WinptyVersion.h" />
+    <ClInclude Include="shared\winpty_snprintf.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="agent\Agent.cc"/>
-    <ClCompile Include="agent\AgentCreateDesktop.cc"/>
-    <ClCompile Include="agent\ConsoleFont.cc"/>
-    <ClCompile Include="agent\ConsoleInput.cc"/>
-    <ClCompile Include="agent\ConsoleInputReencoding.cc"/>
-    <ClCompile Include="agent\ConsoleLine.cc"/>
-    <ClCompile Include="agent\DebugShowInput.cc"/>
-    <ClCompile Include="agent\DefaultInputMap.cc"/>
-    <ClCompile Include="agent\EventLoop.cc"/>
-    <ClCompile Include="agent\InputMap.cc"/>
-    <ClCompile Include="agent\LargeConsoleRead.cc"/>
-    <ClCompile Include="agent\NamedPipe.cc"/>
-    <ClCompile Include="agent\Scraper.cc"/>
-    <ClCompile Include="agent\Terminal.cc"/>
-    <ClCompile Include="agent\Win32Console.cc"/>
-    <ClCompile Include="agent\Win32ConsoleBuffer.cc"/>
-    <ClCompile Include="agent\main.cc"/>
-    <ClCompile Include="shared\BackgroundDesktop.cc"/>
-    <ClCompile Include="shared\Buffer.cc"/>
-    <ClCompile Include="shared\DebugClient.cc"/>
-    <ClCompile Include="shared\GenRandom.cc"/>
-    <ClCompile Include="shared\OwnedHandle.cc"/>
-    <ClCompile Include="shared\StringUtil.cc"/>
-    <ClCompile Include="shared\WindowsSecurity.cc"/>
-    <ClCompile Include="shared\WindowsVersion.cc"/>
-    <ClCompile Include="shared\WinptyAssert.cc"/>
-    <ClCompile Include="shared\WinptyException.cc"/>
-    <ClCompile Include="shared\WinptyVersion.cc"/>
+    <ClCompile Include="agent\Agent.cc" />
+    <ClCompile Include="agent\AgentCreateDesktop.cc" />
+    <ClCompile Include="agent\ConsoleFont.cc" />
+    <ClCompile Include="agent\ConsoleInput.cc" />
+    <ClCompile Include="agent\ConsoleInputReencoding.cc" />
+    <ClCompile Include="agent\ConsoleLine.cc" />
+    <ClCompile Include="agent\DebugShowInput.cc" />
+    <ClCompile Include="agent\DefaultInputMap.cc" />
+    <ClCompile Include="agent\EventLoop.cc" />
+    <ClCompile Include="agent\InputMap.cc" />
+    <ClCompile Include="agent\LargeConsoleRead.cc" />
+    <ClCompile Include="agent\NamedPipe.cc" />
+    <ClCompile Include="agent\Scraper.cc" />
+    <ClCompile Include="agent\Terminal.cc" />
+    <ClCompile Include="agent\Win32Console.cc" />
+    <ClCompile Include="agent\Win32ConsoleBuffer.cc" />
+    <ClCompile Include="agent\main.cc" />
+    <ClCompile Include="shared\BackgroundDesktop.cc" />
+    <ClCompile Include="shared\Buffer.cc" />
+    <ClCompile Include="shared\DebugClient.cc" />
+    <ClCompile Include="shared\GenRandom.cc" />
+    <ClCompile Include="shared\OwnedHandle.cc" />
+    <ClCompile Include="shared\StringUtil.cc" />
+    <ClCompile Include="shared\WindowsSecurity.cc" />
+    <ClCompile Include="shared\WindowsVersion.cc" />
+    <ClCompile Include="shared\WinptyAssert.cc" />
+    <ClCompile Include="shared\WinptyException.cc" />
+    <ClCompile Include="shared\WinptyVersion.cc" />
   </ItemGroup>
-  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
-  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets"/>
-  <ImportGroup Label="ExtensionTargets"/>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets" />
+  <ImportGroup Label="ExtensionTargets" />
 </Project>
